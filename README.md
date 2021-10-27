@@ -1,3 +1,3 @@
 # jenkins-training
 Hello Jenkins!
-Test trigger
+Test trigger 2
